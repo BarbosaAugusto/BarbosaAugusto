@@ -4,6 +4,6 @@
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: ele/dele
 
-![BarbosaAugusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosaaugusto&show_icons=true&theme=gruvbox&count_private=true)
+![BarbosaAugusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosaaugusto&show_icons=true&theme=tokyonight&count_private=true)
 
 
