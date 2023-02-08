@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 ![BarbosaAugusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosaaugusto&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaaugusto&langs_count=8)](https://github.com/barbosaaugusto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosaaugusto&layout=compact)](https://github.com/barbosaaugusto/github-readme-stats)
 
 
 
