@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS e JavaScript
 
 ![BarbosaAugusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=barbosaaugusto&show_icons=true&theme=dark&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/barbosaaugusto/github-readme-stats)
+
 
 
 
