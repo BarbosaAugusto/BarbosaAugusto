@@ -3,7 +3,7 @@
 
 Hey! I'm Augusto Barbosa.
 
- [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](link do portifólio)
+ [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)]()
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelina-tsuboi-322028211/)
  [![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:augusto.barbosa.dev@gmail.com)
 
