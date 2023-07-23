@@ -1,7 +1,7 @@
 <img src=".png" width="600">
 
 
-Heya! I'm Angelina Tsuboi (aka G4LXY or ANG13T).
+Hey! I'm Augusto Barbosa.
 
  [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://angelinatsuboi.com)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angelina_tsuboi)
