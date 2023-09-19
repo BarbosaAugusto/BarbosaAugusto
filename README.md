@@ -1,5 +1,3 @@
-<img src=".png" width="600">
-
 
 # Hi! I'm Augusto Barbosa 
 
