@@ -1,5 +1,10 @@
 
-# Hi! I'm Augusto Barbosa 
+# Olá, eu sou Augusto Barbosa, Desenvolvedor de Software!
+
+## Sobre mim
+
+---
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Augusto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
