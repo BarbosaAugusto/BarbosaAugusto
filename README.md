@@ -11,7 +11,7 @@
 * 🌎 Desenvolvimento Web
   * **HTML**
   * **CSS**
-* Controle de Vercionamento de código
+* 🕹️ Controle de Vercionamento de código
   * **Git e GitHub** 
 
 
